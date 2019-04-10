@@ -1,0 +1,9 @@
+# X-Frame-Options
+<IfModule mod_headers.c>
+Header always append X-Frame-Options SAMEORIGIN
+</IfModule>
+RewriteEngine On
+#RewriteCond %{HTTPS} !=on
+#RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301,NE]
+RewriteCond %{HTTP_HOST} ^practusinc.com
+RewriteRule (.*) http://practusinc.com/$1 [R=301,L]

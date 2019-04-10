@@ -1,0 +1,88 @@
+[27-Mar-2019 06:31:36 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/adminpract/public_html/login.php on line 49
+[27-Mar-2019 06:32:35 UTC] PHP Notice:  Undefined variable: db in /home/adminpract/public_html/login.php on line 51
+[27-Mar-2019 06:32:35 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/adminpract/public_html/login.php on line 51
+[27-Mar-2019 06:32:35 UTC] PHP Notice:  Undefined variable: db in /home/adminpract/public_html/login.php on line 52
+[27-Mar-2019 06:32:35 UTC] PHP Notice:  Undefined index: password in /home/adminpract/public_html/login.php on line 52
+[27-Mar-2019 06:32:35 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/adminpract/public_html/login.php on line 52
+[27-Mar-2019 06:33:21 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/adminpract/public_html/login.php on line 51
+[27-Mar-2019 06:33:21 UTC] PHP Notice:  Undefined index: password in /home/adminpract/public_html/login.php on line 52
+[27-Mar-2019 06:33:21 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/adminpract/public_html/login.php on line 52
+[29-Mar-2019 05:46:26 UTC] PHP Parse error:  syntax error, unexpected '$curl' (T_VARIABLE) in /home/adminpract/public_html/login_practus.php on line 16
+[08-Apr-2019 11:31:17 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/adminpract/public_html/login.php on line 56
+[08-Apr-2019 11:36:11 UTC] PHP Warning:  Missing argument 1 for CallAPI(), called in /home/adminpract/public_html/login.php on line 101 and defined in /home/adminpract/public_html/login.php on line 67
+[08-Apr-2019 11:36:11 UTC] PHP Warning:  Missing argument 2 for CallAPI(), called in /home/adminpract/public_html/login.php on line 101 and defined in /home/adminpract/public_html/login.php on line 67
+[08-Apr-2019 11:36:11 UTC] PHP Notice:  Undefined variable: method in /home/adminpract/public_html/login.php on line 73
+[08-Apr-2019 11:36:11 UTC] PHP Notice:  Undefined variable: method in /home/adminpract/public_html/login.php on line 79
+[08-Apr-2019 11:36:11 UTC] PHP Notice:  Undefined variable: url in /home/adminpract/public_html/login.php on line 91
+[08-Apr-2019 11:36:19 UTC] PHP Warning:  Missing argument 1 for CallAPI(), called in /home/adminpract/public_html/login.php on line 101 and defined in /home/adminpract/public_html/login.php on line 67
+[08-Apr-2019 11:36:19 UTC] PHP Warning:  Missing argument 2 for CallAPI(), called in /home/adminpract/public_html/login.php on line 101 and defined in /home/adminpract/public_html/login.php on line 67
+[08-Apr-2019 11:36:19 UTC] PHP Notice:  Undefined variable: method in /home/adminpract/public_html/login.php on line 73
+[08-Apr-2019 11:36:19 UTC] PHP Notice:  Undefined variable: method in /home/adminpract/public_html/login.php on line 79
+[08-Apr-2019 11:36:19 UTC] PHP Notice:  Undefined variable: url in /home/adminpract/public_html/login.php on line 91
+[08-Apr-2019 11:43:24 UTC] PHP Parse error:  syntax error, unexpected '...' (T_ELLIPSIS) in /home/adminpract/public_html/login.php on line 89
+[08-Apr-2019 11:43:54 UTC] PHP Notice:  Trying to get property of non-object in /home/adminpract/public_html/login.php on line 82
+[08-Apr-2019 11:43:54 UTC] PHP Notice:  Trying to get property of non-object in /home/adminpract/public_html/login.php on line 86
+[09-Apr-2019 10:00:18 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/adminpract/public_html/login.php on line 123
+[09-Apr-2019 10:16:39 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/adminpract/public_html/login.php on line 136
+[09-Apr-2019 11:41:51 UTC] PHP Parse error:  syntax error, unexpected '$curl' (T_VARIABLE) in /home/adminpract/public_html/login.php on line 170
+[09-Apr-2019 11:42:29 UTC] PHP Parse error:  syntax error, unexpected '$curl' (T_VARIABLE) in /home/adminpract/public_html/login.php on line 170
+[09-Apr-2019 11:44:42 UTC] PHP Parse error:  syntax error, unexpected '$curl' (T_VARIABLE) in /home/adminpract/public_html/login.php on line 170
+[09-Apr-2019 11:44:43 UTC] PHP Parse error:  syntax error, unexpected '$curl' (T_VARIABLE) in /home/adminpract/public_html/login.php on line 170
+[09-Apr-2019 12:05:49 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/adminpract/public_html/login.php on line 77
+[09-Apr-2019 12:08:07 UTC] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/adminpract/public_html/login.php on line 75
+[09-Apr-2019 12:11:22 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/adminpract/public_html/login.php on line 79
+[09-Apr-2019 12:55:02 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/adminpract/public_html/login.php on line 82
+[09-Apr-2019 12:58:08 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/adminpract/public_html/login.php on line 82
+[09-Apr-2019 12:59:41 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/adminpract/public_html/login.php on line 82
+[09-Apr-2019 12:59:44 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/adminpract/public_html/login.php on line 82
+[09-Apr-2019 13:00:32 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/adminpract/public_html/login.php on line 82
+[09-Apr-2019 13:00:36 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/adminpract/public_html/login.php on line 82
+[09-Apr-2019 13:17:09 UTC] PHP Notice:  Undefined property: stdClass::$credentials in /home/adminpract/public_html/login.php on line 82
+[09-Apr-2019 13:17:09 UTC] PHP Notice:  Trying to get property of non-object in /home/adminpract/public_html/login.php on line 82
+[09-Apr-2019 13:36:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/adminpract/public_html/login.php on line 103
+[09-Apr-2019 13:38:43 UTC] PHP Notice:  Undefined property: stdClass::$credentials in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:38:43 UTC] PHP Notice:  Trying to get property of non-object in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:38:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adminpract/public_html/header.php:175) in /home/adminpract/public_html/login.php on line 99
+[09-Apr-2019 13:42:36 UTC] PHP Notice:  Undefined property: stdClass::$credentials in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:42:36 UTC] PHP Notice:  Trying to get property of non-object in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:42:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adminpract/public_html/header.php:175) in /home/adminpract/public_html/login.php on line 101
+[09-Apr-2019 13:44:06 UTC] PHP Notice:  Undefined property: stdClass::$credentials in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:44:06 UTC] PHP Notice:  Trying to get property of non-object in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:44:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adminpract/public_html/header.php:175) in /home/adminpract/public_html/login.php on line 101
+[09-Apr-2019 13:44:15 UTC] PHP Notice:  Undefined property: stdClass::$credentials in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:44:15 UTC] PHP Notice:  Trying to get property of non-object in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:44:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adminpract/public_html/header.php:175) in /home/adminpract/public_html/login.php on line 101
+[09-Apr-2019 13:46:21 UTC] PHP Parse error:  syntax error, unexpected ''?status=fail'' (T_CONSTANT_ENCAPSED_STRING) in /home/adminpract/public_html/login.php on line 101
+[09-Apr-2019 13:46:49 UTC] PHP Notice:  Undefined property: stdClass::$credentials in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:46:49 UTC] PHP Notice:  Trying to get property of non-object in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:46:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adminpract/public_html/header.php:175) in /home/adminpract/public_html/login.php on line 101
+[09-Apr-2019 13:46:58 UTC] PHP Notice:  Undefined property: stdClass::$credentials in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:46:58 UTC] PHP Notice:  Trying to get property of non-object in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:46:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adminpract/public_html/header.php:175) in /home/adminpract/public_html/login.php on line 101
+[09-Apr-2019 13:50:21 UTC] PHP Notice:  Undefined property: stdClass::$credentials in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:50:21 UTC] PHP Notice:  Trying to get property of non-object in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:50:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adminpract/public_html/header.php:175) in /home/adminpract/public_html/login.php on line 101
+[09-Apr-2019 13:50:34 UTC] PHP Notice:  Undefined property: stdClass::$credentials in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:50:34 UTC] PHP Notice:  Trying to get property of non-object in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:50:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adminpract/public_html/header.php:175) in /home/adminpract/public_html/login.php on line 101
+[09-Apr-2019 13:50:42 UTC] PHP Notice:  Undefined property: stdClass::$credentials in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:50:42 UTC] PHP Notice:  Trying to get property of non-object in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:50:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adminpract/public_html/header.php:175) in /home/adminpract/public_html/login.php on line 101
+[09-Apr-2019 13:53:47 UTC] PHP Notice:  Undefined property: stdClass::$credentials in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:53:47 UTC] PHP Notice:  Trying to get property of non-object in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:53:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adminpract/public_html/header.php:175) in /home/adminpract/public_html/login.php on line 102
+[09-Apr-2019 13:54:00 UTC] PHP Notice:  Undefined property: stdClass::$credentials in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:54:00 UTC] PHP Notice:  Trying to get property of non-object in /home/adminpract/public_html/login.php on line 90
+[09-Apr-2019 13:54:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adminpract/public_html/header.php:175) in /home/adminpract/public_html/login.php on line 102
+[09-Apr-2019 13:59:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adminpract/public_html/header.php:175) in /home/adminpract/public_html/login.php on line 102
+[09-Apr-2019 14:01:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adminpract/public_html/header.php:175) in /home/adminpract/public_html/login.php on line 102
+[09-Apr-2019 14:04:44 UTC] PHP Notice:  Undefined property: stdClass::$credentials in /home/adminpract/public_html/login.php on line 91
+[09-Apr-2019 14:04:44 UTC] PHP Notice:  Trying to get property of non-object in /home/adminpract/public_html/login.php on line 91
+[10-Apr-2019 05:49:54 UTC] PHP Notice:  Undefined property: stdClass::$credentials in /home/adminpract/public_html/login.php on line 91
+[10-Apr-2019 05:49:54 UTC] PHP Notice:  Trying to get property of non-object in /home/adminpract/public_html/login.php on line 91
+[10-Apr-2019 06:23:49 UTC] PHP Notice:  Undefined property: stdClass::$credentials in /home/adminpract/public_html/login.php on line 91
+[10-Apr-2019 06:23:49 UTC] PHP Notice:  Trying to get property of non-object in /home/adminpract/public_html/login.php on line 91
+[10-Apr-2019 07:18:44 UTC] PHP Notice:  Undefined index: token in /home/adminpract/public_html/login_dashboard.php on line 35
+[10-Apr-2019 07:29:19 UTC] PHP Notice:  Trying to get property of non-object in /home/adminpract/public_html/login_dashboard.php on line 45
+[10-Apr-2019 07:29:19 UTC] PHP Notice:  Trying to get property of non-object in /home/adminpract/public_html/login_dashboard.php on line 45
+[10-Apr-2019 07:29:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/adminpract/public_html/login_dashboard.php on line 45
